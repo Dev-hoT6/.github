@@ -12,7 +12,7 @@
 # **Project Architecture**
 ![image](https://github.com/Dev-hoT6/.github/assets/97217295/0a9bba03-4583-42d7-aba6-48258ef278af)
 
-# **Repository**
+# **Repositories**
 ### TrainData
 * 학습 시 사용 데이터 보관 레포지토리
 

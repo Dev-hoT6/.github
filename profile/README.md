@@ -1,4 +1,4 @@
-# **Project Subject**
+# **Project Purpose**
 * 글과 사진 리뷰의 품질을 평가하여 적립금을 차등 지급하자
 <br>
 
